@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.03) —— 414 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
-- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
-- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
-- [skill] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
+## Today's Knowledge Points (2020.06.26) —— 437 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [如何给页面添加追加右键菜单（原右键菜单功能保持不变）](https://github.com/haizlin/fe-interview/issues/2562)
+- [css] [为什么float会导致父元素塌陷？](https://github.com/haizlin/fe-interview/issues/2563)
+- [js] [微信小程序实现轨迹回放，微信原生小程序，基于uniapp的小程序？](https://github.com/haizlin/fe-interview/issues/2564)
+- [skill] [TCP为什么是有状态的？](https://github.com/haizlin/fe-interview/issues/2565)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 412 days (2020.06.01)
-    - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
-	- [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
-	- [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
-	- [skill] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
+- 435 days (2020.06.24)
+    - [html] [精确获取页面元素位置的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2554)
+	- [css] [什么是关键帧动画？](https://github.com/haizlin/fe-interview/issues/2555)
+	- [js] [for in 和 for of 的区别？](https://github.com/haizlin/fe-interview/issues/2556)
+	- [skill] [上线后什么情况下会回滚呢？回滚的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2557)
 	
 
-- 413 days (2020.06.02)
-    - [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
-	- [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
-	- [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
-	- [skill] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
+- 436 days (2020.06.25)
+    - [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
+	- [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)
+	- [js] [写一个方法实现promise失败后自动重试](https://github.com/haizlin/fe-interview/issues/2560)
+	- [skill] [说说你对脚本语言的理解](https://github.com/haizlin/fe-interview/issues/2561)
 	
 
 - **[All](category/history.md)**
@@ -188,8 +188,9 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
     - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 - 2020.04.16 — 第366天，前端面试每日3+1，满一年啦，366天从未间断，感谢大家的陪伴与参与！！！未来的日子会继续努力做得更好！
-- 2020.05.20 — 第440天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
-- 2020.05.21 — 第441天，第9次登上github热门榜！
+- 2020.05.20 — 第400天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
+- 2020.05.21 — 第401天，第9次登上github热门榜！
+- 2020.06.03 — 第415天，第10次登上github热门榜！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905)（CSDN Daily Synchronized Updates）
